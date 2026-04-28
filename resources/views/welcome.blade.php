@@ -1,21 +1,26 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="es">
-
 <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <meta name="theme-color" content="#C9922A" />
-    <meta name="description"
-        content="Castelo Group - Bienes Raíces en Ecuador. Terrenos urbanos, rurales, agrícolas y comerciales." />
-    <meta name="keywords" content="terrenos Ecuador, bienes raíces, venta terrenos, Castelo Group" />
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
-    <title>Castelo Group - Bienes Raíces Ecuador</title>
-    <script defer="defer" src="/static/js/main.1aae18ed.js"></script>
-    <link href="/static/css/main.5964c247.css" rel="stylesheet">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hola Mundo</title>
+  <style>
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      background: #f0f4f8;
+      font-family: sans-serif;
+    }
+    h1 {
+      font-size: 3rem;
+      color: #2d3748;
+    }
+  </style>
 </head>
-
-<body><noscript>Necesitas habilitar JavaScript para usar este sitio.</noscript>
-    <div id="root"></div>
+<body>
+  <h1>¡Hola Mundo!</h1>
 </body>
-
 </html>
